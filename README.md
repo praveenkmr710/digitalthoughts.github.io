@@ -1,1 +1,0 @@
-# digitalthoughts.github.io
