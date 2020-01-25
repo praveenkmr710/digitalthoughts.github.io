@@ -555,6 +555,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 .section-header h3 {
   font-size: 32px;
+  background: #000;
   color: #111;
   text-transform: uppercase;
   text-align: center;
